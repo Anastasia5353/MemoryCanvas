@@ -50,6 +50,14 @@
           <option name="url" value="https://github.com/ipetrushin/Retrofit2Stub.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ShvarcbergJull/Retrofit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Skylled30/Retrofit2Stub.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\StudioProjects" />
